@@ -21,7 +21,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/júnior-varão-880647314" target="_blank">
+  <a href="https://www.linkedin.com/in/j%C3%BAnior-var%C3%A3o-880647314/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
@@ -31,6 +31,6 @@
 
 <br clear="both">
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
